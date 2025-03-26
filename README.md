@@ -2,7 +2,7 @@
 Intrusion-Detecti# Intrusion Detection (CIC-IDS2017)
 
 ## Overview
-This repository contains an in-depth analysis of the Intrusion Detection Evaluation Dataset (CIC-IDS2017) for Intrusion Detection. Canadian Institute for Cybersecurity (CIC) designed this dataset for the development and evaluation of intrusion detection systems (IDS). The primary focus of this repository is to showcase the implementation and comparison of different machine learning models for binary and multi-class classification tasks. The dataset can be obtained from [here](https://github.com/Bhupatishyam55/Intrusion-Detection-CIC-IDS2017_shyam.B).
+This repository contains an in-depth analysis of the Intrusion Detection Evaluation Dataset (CIC-IDS2017) for Intrusion Detection. Canadian Institute for Cybersecurity (CIC) designed this dataset for the development and evaluation of intrusion detection systems (IDS). The primary focus of this repository is to showcase the implementation and comparison of different machine learning models for binary and multi-class classification tasks. The dataset can be obtained from [here](https://github.com/Bhupatishyam55/Intrusion-Detection-CIC-IDS2017_shyam.B/blob/main/Intrusion-Detection-CIC-IDS2017_Shyam.B%20(1).ipynb).
 
 ## Dataset Characteristics
 ### Size and Composition
